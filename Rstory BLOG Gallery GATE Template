@@ -175,7 +175,7 @@
             <h1>Tokenized Access to Exclusive Blog Content</h1>
             <p>Connect your wallet to verify your ownership of Rstory tokens. If you hold an Rstory token, you can access exclusive full blog posts and more.</p>
             <div id="loading">Page loading...</div>
-            <p>Click the button below to connect your Anchor wallet or MetaMask wallet. If there's at least one Rstory token in your wallet, the full blog post links will become accessible.</p>
+            <p>Click the button above to connect your Anchor wallet or MetaMask wallet. If there's at least one Rstory token in your wallet, the full blog post links will become accessible.</p>
         </div>
     </div>
 
